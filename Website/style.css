@@ -1,8 +1,7 @@
 /* CSS Style Sheet For ChilliQuest Website */
 
+/* CSS Styles for Body */
 
-/* CSS Styles for Banner */
-	.banner h1 {
-		font-family: fantasy;
-		font-weight: bold;
+	body {
+		background-color: black;
 	}
